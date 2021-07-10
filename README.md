@@ -38,6 +38,9 @@ facilita la conexión entre los usuarios y los partners de Microsoft, proveedore
 - DevOps
 
 
+#  Conceptos fundamentales de Azure
+
+
 **Nube pública**
 - No hay gastos de capital para escalar verticalmente.
 - Las aplicaciones pueden aprovisionarse y desaprovisionarse rápidamente.
@@ -48,7 +51,7 @@ facilita la conexión entre los usuarios y los partners de Microsoft, proveedore
 - Debe adquirirse hardware para el inicio y el mantenimiento.
 - Las organizaciones tienen un control total de los recursos y la seguridad.
 - Las organizaciones son responsables del mantenimiento y las actualizaciones del hardware.
--
+
 
 **Nube híbrida**
 - Proporciona la máxima flexibilidad.
