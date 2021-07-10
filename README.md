@@ -57,7 +57,29 @@ facilita la conexión entre los usuarios y los partners de Microsoft, proveedore
 - Proporciona la máxima flexibilidad.
 - Las organizaciones determinan dónde se van a ejecutar sus aplicaciones.
 - Las organizaciones controlan la seguridad, el cumplimiento o los requisitos legales.
+- 
 
+**¿Cuáles son algunas de las ventajas de la informática en la nube?**
+
+- Alta disponibilidad
+- Escalabilidad
+- Elasticidad
+- Agilidad
+- Distribución geográfica
+- Recuperación ante desastres
+
+**¿Qué son los modelos de servicio en la nube?**
+Si hace tiempo que tiene conocimientos sobre la informática en la nube, es probable que haya visto los acrónimos PaaS, IaaS y SaaS de los diferentes modelos de servicio en la nube. Estos modelos definen los diferentes niveles de responsabilidad compartida de un proveedor de nube y un inquilino de nube.
+
+
+**IaaS Infraestructura como servicio:**
+IaaS es la categoría más flexible de servicios en la nube. Su objetivo es ofrecer un control completo sobre el hardware que ejecuta la aplicación. En vez de comprar hardware, con IaaS, se alquila.
+
+**PaaS Plataforma como servicio:**
+PaaS proporciona las mismas ventajas y consideraciones que IaaS, pero ofrece algunas ventajas adicionales que es importante conocer.
+
+**SaaS Software como servicio:**
+SaaS es software que se hospeda y administra de forma centralizada para usted y sus usuarios o clientes. Normalmente se usa una versión de la aplicación para todos los clientes y la licencia se obtiene mediante una suscripción mensual o anual.
 
 
 
