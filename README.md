@@ -213,9 +213,31 @@ Azure Files ofrece recursos compartidos de archivos totalmente administrados en 
 
 # Exploración de los servicios de análisis y bases de datos de Azure
 
+**Azure Cosmos DB**
+- Azure Cosmos DB es un servicio de base de datos de varios modelos distribuido globalmente. 
+- Azure Cosmos DB es compatible con los datos sin esquema, lo que le permite compilar aplicaciones "Always On" con una gran capacidad de respuesta para admitir datos en continuo cambio.
 
 
+**Azure SQL Database**
+- Es un motor de base de datos de plataforma como servicio (PaaS). Controla la mayoría de las funciones de administración de bases de datos, como las actualizaciones, las aplicaciones de revisiones, las copias de seguridad y la supervisión, sin intervención del usuario.
+- Puede crear una capa de almacenamiento de datos de gran rendimiento y disponibilidad para las aplicaciones y las soluciones de Azure.
+- Puede usar características avanzadas de procesamiento de consultas, como las tecnologías en memoria de alto rendimiento y el procesamiento de consultas inteligente
 
+**Azure Database for MySQL**
+- Alta disponibilidad integrada sin coste adicional.
+- Rendimiento predecible y precios de pago por uso inclusivos.
+- Escalado según sea necesario, en cuestión de segundos.
+- Capacidad de protección de información confidencial en reposo y en movimiento.
+- Copias de seguridad automáticas.
+- Seguridad y cumplimiento de nivel empresarial.
+
+
+**Azure Database for PostgreSQL**
+### - Alta disponibilidad integrada en comparación con los recursos locales. No hay ninguna configuración, replicación o costo adicionales que sean necesarios para asegurarse de que las aplicaciones están siempre disponibles.
+- Precios sencillos y flexibles. Tiene un rendimiento predecible en función de un plan de tarifa seleccionado que incluye copias de seguridad automáticas, aplicación de revisiones de software, supervisión y seguridad.
+- Escalado o reducción vertical según sea necesario, en cuestión de segundos. Puede escalar procesos o almacenamiento por separado según sea necesario para asegurarse de que adapta su servicio para que coincida con el uso.
+- Copias de seguridad automáticas ajustables y restauración a un momento dado durante un máximo de 35 días.
+- Seguridad y cumplimiento de nivel empresarial para proteger la información confidencial en reposo y en movimiento. Esta seguridad abarca el cifrado de datos en el disco y el cifrado SSL entre la comunicación entre cliente y servidor.
 
 
 
