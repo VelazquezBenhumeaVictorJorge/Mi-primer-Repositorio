@@ -211,6 +211,9 @@ Azure Files ofrece recursos compartidos de archivos totalmente administrados en 
 - El almacenamiento de archivo almacena datos sin conexión y ofrece los menores costos de almacenamiento, pero los mayores costos de acceso y rehidratación de datos.
 
 
+# Exploración de los servicios de análisis y bases de datos de Azure
+
+
 
 
 
