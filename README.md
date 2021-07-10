@@ -120,7 +120,18 @@ puede crear y utilizar máquinas virtuales en la nube. Estas máquinas virtuales
 App Service permite crear y hospedar aplicaciones web, trabajos en segundo plano, back-ends móviles y API RESTful en el lenguaje de programación que prefiera, sin tener que administrar la infraestructura. 
 
 
+**¿Qué son los contenedores?**
+Los contenedores son un entorno de virtualización. Al igual que la ejecución de varias máquinas virtuales en un solo host físico, se pueden ejecutar varios contenedores en un solo host físico o virtual. 
 
+**Azure Functions**
+El uso de Azure Functions es ideal si le preocupa solo el código que ejecuta el servicio, pero no la infraestructura o la plataforma subyacentes.Las funciones escalan automáticamente según la demanda, para que sean una opción sólida cuando la demanda es variable
+
+**Azure Logic Apps:**
+Las aplicaciones lógicas ejecutan flujos de trabajo diseñados para automatizar escenarios empresariales y compilados a partir de bloques lógicos predefinidos.Todos los flujos de trabajo de aplicación lógica de Azure comienza con un desencadenador, que se activa cuando se produce un evento específico o cuando hay nuevos datos disponibles que cumplen determinados criterios. 
+
+
+**Azure Virtual Desktop:**
+Azure Virtual Desktop en Azure es un servicio de virtualización de escritorios y aplicaciones que se ejecuta en la nube. Permite que los usuarios usen una versión hospedada en la nube de Windows desde cualquier ubicación. Azure Virtual Desktop funciona en dispositivos como Windows, Mac, iOS, Android y Linux.
 
 
 
