@@ -84,10 +84,10 @@ Software que se hospeda y administra de forma centralizada para usted y sus usua
 
 #  Descripción principal de la arquitectura de Azure
 
-Una región es un área geográfica del planeta que contiene al menos un centro de datos, aunque podrían ser varios centros de datos cercanos y conectados mediante una red de baja latencia. Azure asigna y controla los recursos de forma inteligente dentro de cada región para garantizar que las cargas de trabajo están bien compensadas.
+Azure asigna y controla los recursos de forma inteligente dentro de cada región para garantizar que las cargas de trabajo están bien compensadas.
 
 **Regiones de Azure especiales**
-Azure tiene regiones especializadas que se pueden usar al crear las aplicaciones, en lo referente al cumplimiento normativo o a aspectos legales. Algunos ejemplos incluyen:
+Azure tiene regiones especializadas que se pueden usar al crear las aplicaciones, en lo referente al cumplimiento normativo o a aspectos legales. 
 
 **US DoD (centro) US Gov Virginia, US Gov Iowa y más:** 
 Estas regiones son instancias físicas y lógicas con aislamiento de red de Azure para asociados y agencias de la administración pública de EE. UU. Estos centros de datos están operados por personal estadounidense sometido a evaluación e incluyen certificaciones de cumplimiento adicionales.
@@ -100,15 +100,15 @@ Las zonas de disponibilidad son centros de datos separados físicamente dentro d
 
 
 **Recurso:** 
-elemento administrable que está disponible mediante Azure. Algunos ejemplos de recursos son las máquinas virtuales (VM), las cuentas de almacenamiento, las aplicaciones web, las bases de datos y las redes virtuales.
+Elemento administrable que está disponible mediante Azure. Algunos ejemplos de recursos son las máquinas virtuales (VM), las cuentas de almacenamiento, las aplicaciones web, las bases de datos y las redes virtuales.
 
 **Grupo de recursos:** 
-contenedor que incluye los recursos relacionados para una solución de Azure. El grupo de recursos incluye los recursos que se quieren administrar como grupo. Decida qué recursos pertenecen a un grupo de recursos según lo que más convenga a su organización.
+Contenedor que incluye los recursos relacionados para una solución de Azure. El grupo de recursos incluye los recursos que se quieren administrar como grupo. Decida qué recursos pertenecen a un grupo de recursos según lo que más convenga a su organización.
 
 
-## Exploración de los servicios de Azure Compute
+# Exploración de los servicios de Azure Compute
 
-**Azure Virtual Machines**
+**Azure Virtual Machines:**
 puede crear y utilizar máquinas virtuales en la nube. Estas máquinas virtuales proporcionan una infraestructura como servicio (IaaS) en forma de un servidor virtualizado y se pueden usar de muchas formas.
 
 - Control total sobre el sistema operativo (SO).
@@ -116,8 +116,8 @@ puede crear y utilizar máquinas virtuales en la nube. Estas máquinas virtuales
 - Usar configuraciones de hospedaje personalizadas.
 
 
-**Azure App Service**
-App Service permite crear y hospedar aplicaciones web, trabajos en segundo plano, back-ends móviles y API RESTful en el lenguaje de programación que prefiera, sin tener que administrar la infraestructura. Ofrece escalado automático y alta disponibilidad. App Service es compatible con Windows y Linux, y permite implementaciones automatizadas desde GitHub, Azure DevOps o cualquier repositorio Git para admitir un modelo de implementación continua.
+**Azure App Service:**
+App Service permite crear y hospedar aplicaciones web, trabajos en segundo plano, back-ends móviles y API RESTful en el lenguaje de programación que prefiera, sin tener que administrar la infraestructura. 
 
 
 
