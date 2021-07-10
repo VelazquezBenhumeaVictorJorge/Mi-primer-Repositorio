@@ -72,14 +72,14 @@ facilita la conexión entre los usuarios y los partners de Microsoft, proveedore
 Si hace tiempo que tiene conocimientos sobre la informática en la nube, es probable que haya visto los acrónimos PaaS, IaaS y SaaS de los diferentes modelos de servicio en la nube. Estos modelos definen los diferentes niveles de responsabilidad compartida de un proveedor de nube y un inquilino de nube.
 
 
-**IaaS Infraestructura como servicio:**
-IaaS es la categoría más flexible de servicios en la nube. Su objetivo es ofrecer un control completo sobre el hardware que ejecuta la aplicación. En vez de comprar hardware, con IaaS, se alquila.
+**IaaS (Infraestructura como servicio):**
+Su objetivo es ofrecer un control completo sobre el hardware que ejecuta la aplicación. En vez de comprar hardware, con IaaS, se alquila.
 
-**PaaS Plataforma como servicio:**
+**PaaS (Plataforma como servicio):**
 PaaS proporciona las mismas ventajas y consideraciones que IaaS, pero ofrece algunas ventajas adicionales que es importante conocer.
 
-**SaaS Software como servicio:**
-SaaS es software que se hospeda y administra de forma centralizada para usted y sus usuarios o clientes. Normalmente se usa una versión de la aplicación para todos los clientes y la licencia se obtiene mediante una suscripción mensual o anual.
+**SaaS (Software como servicio):**
+Software que se hospeda y administra de forma centralizada para usted y sus usuarios o clientes. Normalmente se usa una versión de la aplicación para todos los clientes y la licencia se obtiene mediante una suscripción mensual o anual.
 
 
 
