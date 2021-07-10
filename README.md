@@ -1,4 +1,4 @@
-# Innovacción virtual | Summer Cloud
+Innovacción virtual | Summer Cloud
 # Mi-primer-Repositorio
 
 
@@ -12,9 +12,9 @@ Azure es una plataforma de informática en la nube con un conjunto de servicios 
 Es la entrega de servicios informáticos a través de Internet, lo que se conoce como la nube.
 
 # ¿Por qué suele ser más barato usar la informática en la nube?
-Reducir los costos operativos.
-Ejecutar la infraestructura de forma más eficaz.
-Escalar a medida que cambien las necesidades empresariales.
+- Reducir los costos operativos.
+- Ejecutar la infraestructura de forma más eficaz.
+- Escalar a medida que cambien las necesidades empresariales.
 
 # ¿Qué es Azure?
 Azure es un conjunto de servicios en la nube en expansión constante que ayudan a la organización a cumplir los desafíos empresariales actuales y futuros
@@ -27,11 +27,16 @@ facilita la conexión entre los usuarios y los partners de Microsoft, proveedore
 
 # Categorías de Azure
 
--Proceso                                   -Bases de datos
--Redes                                     -Web
--Almacenamiento                            -Internet de las cosas (IoT)
--Movil                                     -Macrodatos
--INTELIGENCIA ARTIFICIA                    -DevOps
+-Proceso                                   
+-Bases de datos
+-Redes                                     
+-Web
+-Almacenamiento                            
+-Internet de las cosas (IoT)
+-Movil                                     
+-Macrodatos
+-INTELIGENCIA ARTIFICIA                   
+-DevOps
 
 
 
