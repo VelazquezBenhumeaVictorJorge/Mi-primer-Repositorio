@@ -1,7 +1,7 @@
-Innovacción virtual | Summer Cloud
+**Innovacción virtual | Summer Cloud**
 # Mi-primer-Repositorio
 
-**Introducciòn a los aspectos básicos de Azure**
+# Introducciòn a los aspectos básicos de Azure**
 
 **¿Que es la nube Azure?**
 Azure es una plataforma de informática en la nube con un conjunto de servicios que se amplía continuamente para ayudarle a crear soluciones que satisfagan los objetivos empresariales.
@@ -26,31 +26,31 @@ facilita la conexión entre los usuarios y los partners de Microsoft, proveedore
 **Categorías de Azure**
 
 - Proceso                                   
--Bases de datos
--Redes                                     
--Web
--Almacenamiento                            
--Internet de las cosas (IoT)
--Movil                                     
--Macrodatos
--INTELIGENCIA ARTIFICIA                   
--DevOps
+- Bases de datos
+- Redes                                     
+- Web
+- Almacenamiento                            
+- Internet de las cosas (IoT)
+- Movil                                     
+- Macrodatos
+- INTELIGENCIA ARTIFICIA                   
+- DevOps
 
 
 **Nube pública**
--No hay gastos de capital para escalar verticalmente.
--Las aplicaciones pueden aprovisionarse y desaprovisionarse rápidamente.
--Las organizaciones solo pagan por lo que usan.
+- No hay gastos de capital para escalar verticalmente.
+- Las aplicaciones pueden aprovisionarse y desaprovisionarse rápidamente.
+- Las organizaciones solo pagan por lo que usan.
 
 **Nube privada**
-Debe adquirirse hardware para el inicio y el mantenimiento.
-Las organizaciones tienen un control total de los recursos y la seguridad.
-Las organizaciones son responsables del mantenimiento y las actualizaciones del hardware.
+- Debe adquirirse hardware para el inicio y el mantenimiento.
+- Las organizaciones tienen un control total de los recursos y la seguridad.
+- Las organizaciones son responsables del mantenimiento y las actualizaciones del hardware.
 
 **Nube híbrida**
-Proporciona la máxima flexibilidad.
-Las organizaciones determinan dónde se van a ejecutar sus aplicaciones.
-Las organizaciones controlan la seguridad, el cumplimiento o los requisitos legales.
+- Proporciona la máxima flexibilidad.
+- Las organizaciones determinan dónde se van a ejecutar sus aplicaciones.
+- Las organizaciones controlan la seguridad, el cumplimiento o los requisitos legales.
 
 
 
