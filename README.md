@@ -137,6 +137,48 @@ Azure Virtual Desktop en Azure es un servicio de virtualización de escritorios 
 
 # Exploración de los servicios de red de Azure
 
+**Aspectos básicos de Azure Virtual Network:**
+Las redes virtuales de Azure proporcionan las importantes funcionalidades de red siguientes:
+
+- Aislamiento y segmentación
+- Comunicación con Internet
+- Comunicación entre recursos de Azure
+- Comunicación con los recursos locales
+- Enrutamiento del tráfico de red
+- Filtrado del tráfico de red
+- Conexión de redes virtuales
+
+**Aspectos básicos de Azure VPN Gateway:**
+
+Puertas de enlace de VPN
+Una puerta de enlace de VPN es un tipo de puerta de enlace de red virtual. Las instancias de Azure VPN Gateway se implementan en instancias de Azure Virtual Network y habilitan la conectividad siguiente:
+
+- Conectar los centros de datos locales a redes virtuales a través de una conexión de sitio a sitio.
+- Conectar los dispositivos individuales a redes virtuales a través de una conexión de punto a sitio.
+- Conectar las redes virtuales a otras redes virtuales a través de una conexión entre redes.
+
+
+**Aspectos básicos de Azure ExpressRoute:**
+ExpressRoute le permite ampliar las redes locales a la nube de Microsoft mediante una conexión privada con la ayuda de un proveedor de conectividad. Con ExpressRoute, puede establecer conexiones con servicios en la nube de Microsoft, como Microsoft Azure y Microsoft 365.
+
+
+### Conectividad con los Servicios en la nube de Microsoft
+ExpressRoute permite el acceso directo a los siguientes servicios en todas las regiones:
+
+- Microsoft Office 365
+- Microsoft Dynamics 365
+- Servicios de proceso de Azure, como Azure Virtual Machines
+- Servicios en la nube de Azure, como Azure Cosmos DB y Azure Storage
+
+### Modelos de conectividad de ExpressRoute
+ExpressRoute admite tres modelos que puede usar para conectar la red local con la nube de Microsoft:
+
+- Ubicación de CloudExchange
+- Conexión Ethernet de punto a punto
+- Conexión universal
+
+
+# Exploración de los servicios de Azure Storage
 
 
 
