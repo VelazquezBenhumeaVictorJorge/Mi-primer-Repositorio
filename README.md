@@ -39,6 +39,23 @@ facilita la conexión entre los usuarios y los partners de Microsoft, proveedore
 -DevOps
 
 
+# Nube pública
+-No hay gastos de capital para escalar verticalmente.
+-Las aplicaciones pueden aprovisionarse y desaprovisionarse rápidamente.
+-Las organizaciones solo pagan por lo que usan.
+
+# Nube privada
+Debe adquirirse hardware para el inicio y el mantenimiento.
+Las organizaciones tienen un control total de los recursos y la seguridad.
+Las organizaciones son responsables del mantenimiento y las actualizaciones del hardware.
+
+# Nube híbrida
+Proporciona la máxima flexibilidad.
+Las organizaciones determinan dónde se van a ejecutar sus aplicaciones.
+Las organizaciones controlan la seguridad, el cumplimiento o los requisitos legales.
+
+
+
 
 
 
