@@ -1,7 +1,7 @@
 **Innovacción virtual | Summer Cloud**
 # Mi-primer-Repositorio
 
-# Introducciòn a los aspectos básicos de Azure**
+# Introducciòn a los aspectos básicos de Azure
 
 **¿Que es la nube Azure?**
 Azure es una plataforma de informática en la nube con un conjunto de servicios que se amplía continuamente para ayudarle a crear soluciones que satisfagan los objetivos empresariales.
@@ -23,6 +23,7 @@ Azure Portal es una consola unificada basada en web que proporciona una alternat
 **¿Qué es Azure Marketplace?**
 facilita la conexión entre los usuarios y los partners de Microsoft, proveedores de software independientes y nuevas empresas que ofrecen sus soluciones y servicios, optimizados para ejecutarse en Azure
 
+
 **Categorías de Azure**
 
 - Proceso                                   
@@ -42,10 +43,12 @@ facilita la conexión entre los usuarios y los partners de Microsoft, proveedore
 - Las aplicaciones pueden aprovisionarse y desaprovisionarse rápidamente.
 - Las organizaciones solo pagan por lo que usan.
 
+
 **Nube privada**
 - Debe adquirirse hardware para el inicio y el mantenimiento.
 - Las organizaciones tienen un control total de los recursos y la seguridad.
 - Las organizaciones son responsables del mantenimiento y las actualizaciones del hardware.
+-
 
 **Nube híbrida**
 - Proporciona la máxima flexibilidad.
