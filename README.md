@@ -233,7 +233,7 @@ Azure Files ofrece recursos compartidos de archivos totalmente administrados en 
 
 
 **Azure Database for PostgreSQL**
-### - Alta disponibilidad integrada en comparación con los recursos locales. No hay ninguna configuración, replicación o costo adicionales que sean necesarios para asegurarse de que las aplicaciones están siempre disponibles.
+- Alta disponibilidad integrada en comparación con los recursos locales. 
 - Precios sencillos y flexibles. Tiene un rendimiento predecible en función de un plan de tarifa seleccionado que incluye copias de seguridad automáticas, aplicación de revisiones de software, supervisión y seguridad.
 - Escalado o reducción vertical según sea necesario, en cuestión de segundos. Puede escalar procesos o almacenamiento por separado según sea necesario para asegurarse de que adapta su servicio para que coincida con el uso.
 - Copias de seguridad automáticas ajustables y restauración a un momento dado durante un máximo de 35 días.
